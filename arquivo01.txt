@@ -1,2 +1,5 @@
 Meu primeiro arquivo
-trabalhando com git
+trabalhando com git  --Versão02
+Nova linha incluida
+mais outra linha
+incluir uma nova linha 
